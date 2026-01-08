@@ -1,5 +1,5 @@
 # 💫 About Me:
-Parth Mulik - BTech in Electronics And Communication<br>VIT BHOPAL UNIVERSITY<br>Aspiring Software Developer<br>
+Parth Mulik - BTech in Electronics And Communication<br>VIT BHOPAL UNIVERSITY<br>Aspiring Software Developer and ML Engineer<br>
 
 
 ## 🌐 Socials:
