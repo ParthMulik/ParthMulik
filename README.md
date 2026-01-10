@@ -1,18 +1,4 @@
-<h1 align="center">Hi 👋, I'm Parth Mulik</h1>
-<h3 align="center">A passionate Frontend developer and passionate about AIML.2X Hackathon Winner | Intern @Infosys Springboard | Ex- Intern @Rajdeep Envirocon LLP | Full-Stack Developer | Data Science Enthusiast | Resource Lead @Insights Club |</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parthmulik&label=Profile%20views&color=0e75b6&style=flat" alt="parthmulik" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parthmulik" alt="parthmulik" /></a> </p>
-
-- 🔭 I’m currently working on **AI Powered Regulatory Compliance Checker**
-
-- 🌱 I’m currently learning **Machine Learning**
-
-- 📫 How to reach me **parthmulik04@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
