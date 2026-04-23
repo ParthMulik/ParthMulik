@@ -12,7 +12,7 @@ In addition, my internship experience exposed me to applied AI concepts and rein
 
 Outside academics, my background in competitive sports—including earning a silver medal at the international level in karate—has shaped my discipline, resilience, and time management skills. I am motivated by growth-oriented environments and aspire to contribute to impactful technology while continuously learning and evolving as a software engineer.
 
-* 🌍  I'm based in 
+* 🌍  I'm based in India 
 * ✉️  You can contact me at [parthmulik04@gmail.com](mailto:parthmulik04@gmail.com)
 * 🧠  I'm currently learning Machine Learning
 
