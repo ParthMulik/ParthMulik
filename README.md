@@ -4,8 +4,7 @@ Hi ! My name is Parth Mulik
 2X Hackathon Winner | Ex-Intern @Infosys Springboard | Ex- Intern @Rajdeep Envirocon LLP | Full-Stack Developer | Data Science Enthusiast | Resource Lead @Insights Club | Sophomore
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-I am a second-year engineering student with strong foundations in programming, DATA structures, and core software development principles. I enjoy learning by building and continuously improving through feedback, collaboration, and hands-on experience. My interest lies in developing reliable, user-focused software while strengthening my und
-
+I am a second-year engineering student with strong foundations in programming, DATA structures, and core software development principles. I enjoy learning by building and continuously improving through feedback, collaboration, and hands-on experience. My interest lies in developing reliable, user-focused software while strengthening my
 I have worked with Python and Java to design and implement applications using object-oriented concepts and structured problem-solving approaches. Through academic and personal projects, I have gained experience translating requirements into functional features, iterating on solutions based on feedback, and paying attention to correctness, robustness, and code quality. I have also explored cloud technologies by deploying applications on Microsoft Azure, which helped me understand real-world development and deployment workflows.
 
 In addition, my internship experience exposed me to applied AI concepts and reinforced my ability to quickly learn new tools and adapt to unfamiliar technologies. I value teamwork, clear communication, and ownership, and I enjoy working in collaborative environments where ideas are shared openly and solutions are improved iteratively.
