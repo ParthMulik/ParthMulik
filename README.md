@@ -1,7 +1,7 @@
 Parth Mulik
 ====================================================================================================================================
 
-2X Hackathon Winner | Ex-Intern @Infosys Springboard | Ex- Intern @Rajdeep Envirocon LLP | Full-Stack Developer | Data Science Enthusiast | Resource Lead @Insights Club | Pre-Final Year
+2X Hackathon Winner | Ex-Intern @Infosys Springboard | Ex- Intern @Rajdeep Envirocon LLP | Full-Stack Developer | Data Science Enthusiast | Resource Lead @Insights Club | Technical Lead @Marathi Club | Pre-Final Year
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # About Me:
@@ -24,5 +24,4 @@ I am a Pre-Final Year engineering student with strong foundations in programming
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-![Snake animation](https://github.com/<ParthMulik>/<ParthMulik>/blob/output/github-contribution-grid-snake.svg)
 
