@@ -24,15 +24,40 @@ I am a Pre-Final Year engineering student with strong foundations in programming
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-<br clear="both">
+name: Generate snake animation
 
-<img src="https://raw.githubusercontent.com/ParthMulik/ParthMulik/snake-output/snake.svg" alt="Snake animation" />
+on:
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
 
-###
+  workflow_dispatch:
 
-<img src="https://raw.githubusercontent.com/ParthMulik/ParthMulik/snake-output/snake.svg" alt="Snake animation" />
+  push:
+    branches:
+    - main
 
-###
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: generate snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/snake.svg?palette=github-dark
+
+
+      - name: push snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: snake-output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ParthMulik/ParthMulik/pacman-output/pacman-contribution-graph-dark.svg">
