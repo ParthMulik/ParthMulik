@@ -1,7 +1,7 @@
 Hi ! My name is Parth Mulik
 ====================================================================================================================================
 
-2X Hackathon Winner | Ex-Intern @Infosys Springboard | Ex- Intern @Rajdeep Envirocon LLP | Full-Stack Developer | Data Science Enthusiast | Resource Lead @Insights Club | Sophomore
+2X Hackathon Winner | Ex-Intern @Infosys Springboard | Ex- Intern @Rajdeep Envirocon LLP | Full-Stack Developer | Data Science Enthusiast | Resource Lead @Insights Club | Pre-Final Year
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # 💫 About Me:
