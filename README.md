@@ -24,6 +24,22 @@ I am a Pre-Final Year engineering student with strong foundations in programming
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/ParthMulik/ParthMulik/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+<img src="https://raw.githubusercontent.com/ParthMulik/ParthMulik/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ParthMulik/ParthMulik/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ParthMulik/ParthMulik/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ParthMulik/ParthMulik/pacman-output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 
