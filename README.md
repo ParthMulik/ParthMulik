@@ -24,5 +24,5 @@ I am a Pre-Final Year engineering student with strong foundations in programming
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-
+![Snake animation](https://github.com/<ParthMulik>/<ParthMulik>/blob/output/github-contribution-grid-snake.svg)
 
