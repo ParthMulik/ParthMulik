@@ -30,6 +30,6 @@ I am a Pre-Final Year engineering student with strong foundations in programming
 ![Visitor Count](https://count.getloli.com/get/@ParthMulik?theme=rule34)
 
 
-(https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6f
+(https://user-images.githubuser.com/10498744/210012254-234538ff-d198-48aa-8964-37e6f
 
 ![Profile views](https://komarev.com/ghpvc/?username=ParthMulik&label=Profile%20views&color=0e75b6&style=flat)
