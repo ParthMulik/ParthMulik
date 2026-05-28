@@ -5,7 +5,7 @@ Parth Mulik
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # About Me:
-I am a Pre-Final Year engineering student with strong foundations in programming, DATA structures, and core software development principles. I enjoy learning by building and continuously improving through feedback, collaboration, and hands-on experience. My interest lies in developing reliable, user-focused software I have worked with Python and Java to design and implement applications using object-oriented concepts and structured problem-solving approaches. Through academic and personal projects, I have gained experience translating requirements into functional features, iterating on solutions based on feedback, and paying attention to correctness, robustness, and code quality. I have also explored cloud technologies by deploying applications on Microsoft Azuree<br>
+I am a Pre-Final Year engineering student with strong foundations in programming, DATA structures, and core software development principles. I enjoy learning by building and continuously improving through feedback, collaboration, and hands-on experience. My interest lies in developing reliable, user-focused software I have worked with Python and Java to design and implement applications using object-oriented concepts and structured problem-solving approaches. Through academic and personal projects, I have gained experience translating requirements into functional features, iterating on solutions based on feedback, and paying attention to correctness, robustness, and code quality. I have also explored cloud technologies by deploying <br>
 
 
 ## 🌐 Socials:
