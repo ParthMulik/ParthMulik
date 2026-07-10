@@ -1,7 +1,7 @@
 Parth Mulik
 ====================================================================================================================================
 
-2X Hackathon Winner | Ex-Intern @Infosys Springboard | Ex- Intern @Rajdeep Envirocon LLP | Full-Stack Developer | Data Science Enthusiast | Resource Lead @Insights Club | Technical Lead @Marathi Club | Sophomore Year
+2X Hackathon Winner | Ex-Intern @Infosys Springboard | Ex- Intern @Rajdeep Envirocon LLP | Full-Stack Developer | Data Science Enthusiast | Resource Lead @Insights Club | Technical Lead @Marathi Club | 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # About Me:
